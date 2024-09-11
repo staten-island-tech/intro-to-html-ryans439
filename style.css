@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(225,0,0)
+}
+li{
+    color: white;
+}
+.first{
+    color: purple;
+}
+
+#second{
+    color: blue;
+
+}
+h1{
+    font-size: 32px;
+    text-align: center;
+}
+img{
+    width: 50vw;
+
+}
+.post{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin: 50px auto;
+}
